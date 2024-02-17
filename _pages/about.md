@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a research associate in the Department of Building, Civil, and Environmental Engineering (BCEE) at [Concordia University] (https://www.concordia.ca/) where I obtained my Ph.D. degree under Dr. Chunjiang An’s and Dr. Zhibin Ye’s supervision. Before joining Concordia, I received my Bachelor's degree from Jilin Normal University in 2016, and my Master’s degree from Shandong University in 2019 co-supervised by Dr. Shuguang Wang and Dr. Xuefei Sun. 
+I am a research associate in the Department of Building, Civil, and Environmental Engineering (BCEE) at Concordia University where I obtained my Ph.D. degree under Dr. Chunjiang An’s and Dr. Zhibin Ye’s supervision. Before joining Concordia, I received my Bachelor's degree from Jilin Normal University in 2016, and my Master’s degree from Shandong University in 2019 co-supervised by Dr. Shuguang Wang and Dr. Xuefei Sun. 
+
 
 My research interests include
 1. Oil spill response
@@ -27,8 +28,8 @@ My research interests include
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02*: &nbsp;🎉🎉 The following paper was recently published: R. Yue, Z. Ye, B. Zhang, C. An, Z. Qu, and S. Wan, Two Birds with One Stone: A Dual-functional Washing Fluid for Shoreline Oil Spill Response, ACS ES&T Engineering (American Chemical Society), 4(2), 445-454 (2024).
+- *2023.12*: &nbsp;🎉🎉 Rengyu Yue successfully passed his PhD thesis defence.
 
 # 📝 Publications 
 
