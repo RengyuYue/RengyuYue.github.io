@@ -31,9 +31,19 @@ My research interests include
 - *2024.02*: &nbsp;🎉🎉 The following paper was recently published: R. Yue, Z. Ye, B. Zhang, C. An, Z. Qu, and S. Wan, [Two Birds with One Stone: A Dual-functional Washing Fluid for Shoreline Oil Spill Response, ACS ES&T Engineering (American Chemical Society), 4(2), 445-454 (2024).](https://doi.org/10.1021/acsestengg.3c00384) 
 - *2023.12*: &nbsp;🎉🎉 Rengyu Yue successfully passed his Ph.D. thesis defense.
 
-# 📝 Publications 
+# 📝 Publications (First-author)
 
-- [R. Yue, Z. Ye, B. Zhang, C. An, Z. Qu, and S. Wan, Two Birds with One Stone: A Dual-functional Washing Fluid for Shoreline Oil Spill Response, ACS ES&T Engineering (American Chemical Society), 4(2), 445-454 (2024).](https://doi.org/10.1021/acsestengg.3c00384](https://doi.org/10.1021/acsestengg.3c00384)
+- [**R. Yue**, Z. Ye, B. Zhang, C. An, Z. Qu, and S. Wan, Two Birds with One Stone: A Dual-functional Washing Fluid for Shoreline Oil Spill Response, ACS ES&T Engineering (American Chemical Society), 4(2), 445-454 (2024).](https://doi.org/10.1021/acsestengg.3c003840)
+- [R. Yue, Z. Ye, S. Gao, Y. Cao, K. Lee, C. An, Z. Qu, S. Wan. Exploring the use of sodium caseinate-assisted responsive separation for the treatment of washing effluents in shoreline oil spill response. Science of the Total Environment. 2023, 873: 162363](https://doi.org/10.1016/j.scitotenv.2023.162363)
+- [R. Yue, Y. Peng, C. Zhang, Z. Wan, S. Wang, X. Sun. Robust self-cleaning membrane with superhydrophilicity and underwater superoleophobicity for oil-in-water separation. Chemosphere. 2023, 330: 138706](https://doi.org/10.1016/j.chemosphere.2023.138706)
+- [R. Yue, C. An, Z. Ye, X Li, Q. Li; P. Zhang, Z. Qu; S. Wan. A pH-responsive phosphoprotein washing fluid for the removal of phenanthrene from contaminated peat moss in the cold region. Chemosphere, 2023, 313: 137389](https://doi.org/10.1016/j.chemosphere.2022.137389)
+- [R. Yue, C. An, Z Ye. X. Chen, K. Lee, K. Zhang, S. Wan, Z. Qu. Exploring the characteristics, performance, and mechanisms of a magnetic-mediated washing fluid for the cleanup of oiled beach sand. Journal of Hazardous Materials. 2022, 438: 129447.](https://doi.org/10.1016/j.jhazmat.2022.129447)
+- [R. Yue, C. An, Z Ye. S. Gao, X. Chen, B. Zhang, K. Lee, H. Bi. A pH-responsive phosphoprotein surface washing fluid for cleaning oiled shoreline: Performance evaluation, biotoxicity analysis, and molecular dynamic simulation. Chemical Engineering Journal, 2022, 437: 135336.](https://doi.org/10.1016/j.cej.2022.135336)
+- [R. Yue, C. An, Z. Ye, E. Owens, E. Taylor, S. Zhao. Green biomass-derived materials for oil spill response: Recent advancements and future perspectives. Current Opinion in Chemical Engineering, 2022, 36: 100767](https://doi.org/10.1016/j.coche.2021.100767)
+- [R. Yue, C. An, Z. Ye, H. Bi, Z. Chen, X. Liu, X. Zhang, K. Lee. A dual responsive nanoclay/sodium alginate surface washing agent for effective shoreline cleanup. Environmental Research, 2022, 205: 112531.](https://doi.org/10.1016/j.envres.2021.112531)
+- [R. Yue, MS. Rahaman. Hydrophilic and underwater superoleophobic porous graphitic carbon nitride (g-C3N4) membranes with photo-Fenton self-cleaning ability for efficient oil/water separation. Journal of Colloid and Interface Science, 2022, 608: 1960-1972.](https://doi.org/10.1016/j.jcis.2021.10.162)
+-
+-
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
