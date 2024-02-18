@@ -37,7 +37,7 @@ I am a research associate in the Department of Building, Civil, and Environmenta
 
 # 📝 Publications (First-author)
 
-1. [**R. Yue**, Z. Ye, B. Zhang, C. An, Z. Qu, and S. Wan, Two Birds with One Stone: A Dual-functional Washing Fluid for Shoreline Oil Spill Response, ACS ES&T Engineering (American Chemical Society), 4(2), 445-454 (2024).](https://doi.org/10.1021/acsestengg.3c003840)
+1. [**R. Yue**, Z. Ye, B. Zhang, C. An, Z. Qu, and S. Wan, Two Birds with One Stone: Two birds with one stone: a dual-functional washing fluid for shoreline oil spill response. ACS ES&T Engineering. 2024, 3: 271.](https://doi.org/10.1021/acsestengg.3c003840)
 2. [**R. Yue**, Z. Ye, S. Gao, Y. Cao, K. Lee, C. An, Z. Qu, S. Wan. Exploring the use of sodium caseinate-assisted responsive separation for the treatment of washing effluents in shoreline oil spill response. Science of the Total Environment. 2023, 873: 162363](https://doi.org/10.1016/j.scitotenv.2023.162363)
 3. [**R. Yue**, Y. Peng, C. Zhang, Z. Wan, S. Wang, X. Sun. Robust self-cleaning membrane with superhydrophilicity and underwater superoleophobicity for oil-in-water separation. Chemosphere. 2023, 330: 138706](https://doi.org/10.1016/j.chemosphere.2023.138706)
 4. [**R. Yue**, C. An, Z. Ye, X Li, Q. Li; P. Zhang, Z. Qu; S. Wan. A pH-responsive phosphoprotein washing fluid for the removal of phenanthrene from contaminated peat moss in the cold region. Chemosphere, 2023, 313: 137389](https://doi.org/10.1016/j.chemosphere.2022.137389)
