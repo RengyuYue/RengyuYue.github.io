@@ -19,7 +19,6 @@ redirect_from:
 
 I am a research associate in the Department of Building, Civil, and Environmental Engineering (BCEE) at [Concordia University](https://www.concordia.ca/) where I obtained my Ph.D. degree under [Dr. Chunjiang An](https://anlab.ca/) and [Dr. Zhibin Ye](https://www.concordia.ca/faculty/zhibin-ye.html) supervision. Before joining Concordia, I received my Bachelor's degree from Jilin Normal University in 2016, and my Master’s degree from Shandong University in 2019 co-supervised by Dr. Shuguang Wang and Dr. Xuefei Sun. 
 
-
 # 📖 Research Interests
 1. Oil spill response
 2. Functionalization of green nanomaterials
@@ -30,7 +29,6 @@ I am a research associate in the Department of Building, Civil, and Environmenta
 - *2020.01-2023.12* Ph.D. in Civil Engineering. Concordia University, Montreal, CA
 - *2016.09-2019.06* Master in Environmental Engineering, Shandong University, Qingdao, CN
 - *2012.09-2016.06* Bachelor in Environmental Science, Jilin Normal University, Siping, CN
-
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 The following paper was recently published: R. Yue, Z. Ye, B. Zhang, C. An, Z. Qu, and S. Wan, [Two Birds with One Stone: A Dual-functional Washing Fluid for Shoreline Oil Spill Response, ACS ES&T Engineering (American Chemical Society), 4(2), 445-454 (2024).](https://doi.org/10.1021/acsestengg.3c00384) 
@@ -76,5 +74,5 @@ I am a research associate in the Department of Building, Civil, and Environmenta
 6. R. Yue, C. An, Z. Ye. A dual responsive nanoclay/sodium alginate surface washing agent for oiled shoreline cleanup. Multi-Partner Research Initiative Student Research Forum. Montreal, QC, Canada, September 23 – 24, 2021. (Oral Presentation)
 7. Z. Qu, R. Yue, C. An. An experimental and modeling study on the penetration of spilled oil into thawing frozen soil. INQ’s Northern Days 2023, Trois-Rivières, Canada, June 5 – 6, 2023. (Poster)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Reviewers for Academic Journals
+- Nature Sustainability, npj Clean Water, Chemical Engineering Journal, Journal of Hazardous Materials, Journal of Cleaner Production, Separation and Purification Technology, Environmental Research, Marine Pollution Bulletin, Scientific Reports, Environmental Systems Research, Environmental Processes, Journal of Porous Materials.
