@@ -42,7 +42,7 @@ My research interests include
 - [R. Yue, C. An, Z. Ye, E. Owens, E. Taylor, S. Zhao. Green biomass-derived materials for oil spill response: Recent advancements and future perspectives. Current Opinion in Chemical Engineering, 2022, 36: 100767](https://doi.org/10.1016/j.coche.2021.100767)
 - [R. Yue, C. An, Z. Ye, H. Bi, Z. Chen, X. Liu, X. Zhang, K. Lee. A dual responsive nanoclay/sodium alginate surface washing agent for effective shoreline cleanup. Environmental Research, 2022, 205: 112531.](https://doi.org/10.1016/j.envres.2021.112531)
 - [R. Yue, MS. Rahaman. Hydrophilic and underwater superoleophobic porous graphitic carbon nitride (g-C3N4) membranes with photo-Fenton self-cleaning ability for efficient oil/water separation. Journal of Colloid and Interface Science, 2022, 608: 1960-1972.](https://doi.org/10.1016/j.jcis.2021.10.162)
--
+- [R. Yue, T. Chen, Z. Ye, B. Barbeau, MS. Rahaman. A photo-Fenton graphene oxide membrane with improved perm-selectivity and self-cleaning ability for efficient dye removal under visible light irradiation. Journal of Water Process Engineering, 2021, 44: 102443.](https://doi.org/10.1016/j.jwpe.2021.102443)
 -
 
 # 🎖 Honors and Awards
