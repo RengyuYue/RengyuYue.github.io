@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a research associate in the Department of Building, Civil, and Environmental Engineering (BCEE) at [Concordia University](https://www.concordia.ca/) where I obtained my Ph.D. degree under [Dr. Chunjiang An](https://anlab.ca/) and [Dr. Zhibin Ye](https://www.concordia.ca/faculty/zhibin-ye.html) supervision. Before joining Concordia, I received my Bachelor's degree from Jilin Normal University in 2016, and my Master’s degree from Shandong University in 2019 co-supervised by Dr. Shuguang Wang and Dr. Xuefei Sun. 
+I am a research associate in the Department of Building, Civil, and Environmental Engineering (BCEE) at [Concordia University](https://www.concordia.ca/) where I obtained my Ph.D. degree under [Dr. Chunjiang An's](https://anlab.ca/) and [Dr. Zhibin Ye's](https://www.concordia.ca/faculty/zhibin-ye.html) supervision. Before joining Concordia, I received my Bachelor's degree from Jilin Normal University in 2016, and my Master’s degree from Shandong University in 2019 co-supervised by Dr. Shuguang Wang and Dr. Xuefei Sun. 
 
 # 📖 Research Interests
 1. Oil spill response
