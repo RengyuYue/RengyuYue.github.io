@@ -63,13 +63,18 @@ I am a research associate in the Department of Building, Civil, and Environmenta
 - *2016-2019* 2 × Third Prize Scholarships, 2 × Outstanding Graduate Student Awards.
 - *2012-1026* 4 × First Prize Scholarships, 2 × Second Prize Scholarships, 3 × Outstanding Student Awards, Jilin Provincial Government Scholarship, Outstanding Graduate Thesis. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Teaching
+- *2023.04* Graduate Seminar in University Teaching (All Disciplines).
+- *2021.09 - 2019.12* Teaching Assistant, CIVI 6481 Hazardous Waste Management.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Conference&Events
+1. R. Yue, C. An, Z. Ye. X. Chen, K. Lee. Cleanup of oiled shoreline using a magnetic washing fluid. International Conference on Persistent, Emerging, and Organic Pollution in the Environment – Challenges and Solutions under Climate Change (PEOPLE), Montreal, QC, Canada, August 7 – 11, 2023. (Oral Presentation)
+2. R. Yue, C. An, Z. Ye. X. Chen, K. Lee. A green initiative for oiled shoreline cleanup using magnetic washing fluid. 45th AMOP Technical Seminar on Environmental Contamination and Response, Edmonton, AB, Canada, June 6 – 8, 2023. (Oral Presentation)
+3. R. Yue, C. An, Z. Ye. A pH-responsive protein surface washing fluid for oil cleanup. International Oil Spill Science Conference (IOSSC), Halifax, NS, Canada, October 4 – 7, 2022. (Oral Presentation)
+4. R. Yue, C. An, Z. Ye. A dual responsive nanoclay/sodium alginate surface washing fluid for oiled sand cleanup. International Conference on Persistent, Emerging, and Organic Pollution in the Environment – Challenges and Solutions under Climate Change (PEOPLE), Charlottetown, PEI, Canada, August 23 – 26, 2022. (Oral Presentation)
+5. R. Yue, B. Raisi, J. Rahmatinejad, Z. Ye, B. Barbeau, S. Rahaman. Novel reactive, self-cleaning membranes for wastewater purification and membrane anti-fouling. 71st Canadian Chemical Engineering Conference (CCEC), Montreal, QC, Canada, October 24 – 27, 2021. (Invited Speaker, Oral Presentation)
+6. R. Yue, C. An, Z. Ye. A dual responsive nanoclay/sodium alginate surface washing agent for oiled shoreline cleanup. Multi-Partner Research Initiative Student Research Forum. Montreal, QC, Canada, September 23 – 24, 2021. (Oral Presentation)
+7. Z. Qu, R. Yue, C. An. An experimental and modeling study on the penetration of spilled oil into thawing frozen soil. INQ’s Northern Days 2023, Trois-Rivières, Canada, June 5 – 6, 2023. (Poster)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
