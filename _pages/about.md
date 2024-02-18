@@ -35,7 +35,7 @@ I am a research associate in the Department of Building, Civil, and Environmenta
 - *2024.02*: &nbsp;🎉🎉 The following paper was recently published: R. Yue, Z. Ye, B. Zhang, C. An, Z. Qu, and S. Wan, [Two Birds with One Stone: A Dual-functional Washing Fluid for Shoreline Oil Spill Response, ACS ES&T Engineering (American Chemical Society), 4(2), 445-454 (2024).](https://doi.org/10.1021/acsestengg.3c00384) 
 - *2023.12*: &nbsp;🎉🎉 Rengyu Yue successfully passed his Ph.D. thesis defense.
 
-# 📝 Publications (First-author)
+# 📝 Publications
 
 1. [**R. Yue**, Z. Ye, B. Zhang, C. An, Z. Qu, and S. Wan, Two Birds with One Stone: Two birds with one stone: a dual-functional washing fluid for shoreline oil spill response. ACS ES&T Engineering. 2024, 4: 445.](https://doi.org/10.1021/acsestengg.3c00384)
 2. [**R. Yue**, Z. Ye, S. Gao, Y. Cao, K. Lee, C. An, Z. Qu, S. Wan. Exploring the use of sodium caseinate-assisted responsive separation for the treatment of washing effluents in shoreline oil spill response. Science of the Total Environment. 2023, 873: 162363](https://doi.org/10.1016/j.scitotenv.2023.162363)
@@ -66,7 +66,7 @@ I am a research associate in the Department of Building, Civil, and Environmenta
 - *2023.04*, Graduate Seminar in University Teaching (All Disciplines).
 - *2021.09 - 2019.12*, Teaching Assistant, CIVI 6481 Hazardous Waste Management.
 
-# 💬 Conference & Events
+# 💬 Conference and Events
 1. R. Yue, C. An, Z. Ye. X. Chen, K. Lee. Cleanup of oiled shoreline using a magnetic washing fluid. International Conference on Persistent, Emerging, and Organic Pollution in the Environment – Challenges and Solutions under Climate Change (PEOPLE), Montreal, QC, Canada, August 7 – 11, 2023. (Oral Presentation)
 2. R. Yue, C. An, Z. Ye. X. Chen, K. Lee. A green initiative for oiled shoreline cleanup using magnetic washing fluid. 45th AMOP Technical Seminar on Environmental Contamination and Response, Edmonton, AB, Canada, June 6 – 8, 2023. (Oral Presentation)
 3. R. Yue, C. An, Z. Ye. A pH-responsive protein surface washing fluid for oil cleanup. International Oil Spill Science Conference (IOSSC), Halifax, NS, Canada, October 4 – 7, 2022. (Oral Presentation)
