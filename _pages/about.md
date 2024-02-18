@@ -48,8 +48,15 @@ My research interests include
 - [**R. Yue**, J. Guan, C. Zhang, P. Yuan, L. Liu, MZ. Afzal, S. Wang, X. Sun. Photoinduced superwetting membranes for separation of oil-in-water emulsions. Separation and Purification Technology, 2020, 241: 116536.](https://doi.org/10.1016/j.seppur.2020.116536)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06*  Chinese Government Award for Outstanding Self-financed Students Abroad.
+- *2023.05*  Concordia University Conference and Exposition Award
+- *2022.10*  ITAC Best Student Presentation Award for Oil Spill Response Technologies. IOSSC
+- *2022.08*  Concordia University Conference and Exposition Award.
+- *2022.07*  Concordia University Conference and Exposition Award.
+- *2020.10*  Concordia International Tuition Award of Excellence.
+- *2020.10*  Concordia University Doctoral Graduate Fellowship.
+- *2016-2019* 2 × Third Prize Scholarships, 2 × Outstanding Graduate Student Awards.
+- *2012-1026* 4 × First Prize Scholarships, 2 × Second Prize Scholarships, 3 × Outstanding Student Awards, Jilin Provincial Government Scholarship, Outstanding Graduate Thesis. 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
