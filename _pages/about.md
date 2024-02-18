@@ -74,5 +74,5 @@ I am a research associate in the Department of Building, Civil, and Environmenta
 6. R. Yue, C. An, Z. Ye. A dual responsive nanoclay/sodium alginate surface washing agent for oiled shoreline cleanup. Multi-Partner Research Initiative Student Research Forum. Montreal, QC, Canada, September 23 – 24, 2021. (Oral Presentation)
 7. Z. Qu, R. Yue, C. An. An experimental and modeling study on the penetration of spilled oil into thawing frozen soil. INQ’s Northern Days 2023, Trois-Rivières, Canada, June 5 – 6, 2023. (Poster)
 
-# 💻 Reviewers for Academic Journals
+# 💻 Service
 - Nature Sustainability, npj Clean Water, Chemical Engineering Journal, Journal of Hazardous Materials, Journal of Cleaner Production, Separation and Purification Technology, Environmental Research, Marine Pollution Bulletin, Scientific Reports, Environmental Systems Research, Environmental Processes, Journal of Porous Materials.
