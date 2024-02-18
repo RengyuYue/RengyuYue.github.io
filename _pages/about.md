@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a research associate in the Department of Building, Civil, and Environmental Engineering (BCEE) at Concordia University where I obtained my Ph.D. degree under Dr. Chunjiang An’s and Dr. Zhibin Ye’s supervision. Before joining Concordia, I received my Bachelor's degree from Jilin Normal University in 2016, and my Master’s degree from Shandong University in 2019 co-supervised by Dr. Shuguang Wang and Dr. Xuefei Sun. 
+I am a research associate in the Department of Building, Civil, and Environmental Engineering (BCEE) at [Concordia University](https://www.concordia.ca/) where I obtained my Ph.D. degree under [Dr. Chunjiang An](https://anlab.ca/) and [Dr. Zhibin Ye](https://www.concordia.ca/faculty/zhibin-ye.html) supervision. Before joining Concordia, I received my Bachelor's degree from Jilin Normal University in 2016, and my Master’s degree from Shandong University in 2019 co-supervised by Dr. Shuguang Wang and Dr. Xuefei Sun. 
 
 
 My research interests include
@@ -33,19 +33,7 @@ My research interests include
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [R. Yue, Z. Ye, B. Zhang, C. An, Z. Qu, and S. Wan, Two Birds with One Stone: A Dual-functional Washing Fluid for Shoreline Oil Spill Response, ACS ES&T Engineering (American Chemical Society), 4(2), 445-454 (2024).](https://doi.org/10.1021/acsestengg.3c00384](https://doi.org/10.1021/acsestengg.3c00384)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
