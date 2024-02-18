@@ -25,7 +25,7 @@ I am a research associate in the Department of Building, Civil, and Environmenta
 3. Membrane separation and anti-fouling membrane, and
 4. Catalysis
 
-# 📖 Employment & Educations
+# 📖 Employment and Educations
 - *2024.01-present*, Research Associate, Concordia University, Montreal, CA
 - *2020.01-2023.12*, Ph.D. in Civil Engineering. Concordia University, Montreal, CA
 - *2016.09-2019.06*, Master in Environmental Engineering, Shandong University, Qingdao, CN
@@ -51,7 +51,7 @@ I am a research associate in the Department of Building, Civil, and Environmenta
 12. [**R. Yue**, X. Sun. A self-cleaning catalytic titanium carbide (MXene) membrane for efficient tetracycline degradation through peroxymonosulfate activation: Performance evaluation and mechanism study. Separation and Purification Technology, 2021, 279: 119796.](https://doi.org/10.1016/j.seppur.2021.119796)
 13. [**R. Yue**, J. Guan, C. Zhang, P. Yuan, L. Liu, MZ. Afzal, S. Wang, X. Sun. Photoinduced superwetting membranes for separation of oil-in-water emulsions. Separation and Purification Technology, 2020, 241: 116536.](https://doi.org/10.1016/j.seppur.2020.116536)
 
-# 🎖 Honors & Awards
+# 🎖 Honors and Awards
 - *2023.06*,  Chinese Government Award for Outstanding Self-financed Students Abroad.
 - *2023.05*,  Concordia University Conference and Exposition Award.
 - *2022.10*,  ITAC Best Student Presentation Award for Oil Spill Response Technologies. IOSSC
