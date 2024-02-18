@@ -25,7 +25,8 @@ I am a research associate in the Department of Building, Civil, and Environmenta
 3. Membrane separation and anti-fouling membrane, and
 4. Catalysis
 
-# 📖 Educations
+# 📖 Employment & Educations
+- *2020.01-2023.12* Research Associate, Concordia University, Montreal, CA
 - *2020.01-2023.12* Ph.D. in Civil Engineering. Concordia University, Montreal, CA
 - *2016.09-2019.06* Master in Environmental Engineering, Shandong University, Qingdao, CN
 - *2012.09-2016.06* Bachelor in Environmental Science, Jilin Normal University, Siping, CN
@@ -65,7 +66,7 @@ I am a research associate in the Department of Building, Civil, and Environmenta
 - *2023.04* Graduate Seminar in University Teaching (All Disciplines).
 - *2021.09 - 2019.12* Teaching Assistant, CIVI 6481 Hazardous Waste Management.
 
-# 💬 Conference&Events
+# 💬 Conference & Events
 1. R. Yue, C. An, Z. Ye. X. Chen, K. Lee. Cleanup of oiled shoreline using a magnetic washing fluid. International Conference on Persistent, Emerging, and Organic Pollution in the Environment – Challenges and Solutions under Climate Change (PEOPLE), Montreal, QC, Canada, August 7 – 11, 2023. (Oral Presentation)
 2. R. Yue, C. An, Z. Ye. X. Chen, K. Lee. A green initiative for oiled shoreline cleanup using magnetic washing fluid. 45th AMOP Technical Seminar on Environmental Contamination and Response, Edmonton, AB, Canada, June 6 – 8, 2023. (Oral Presentation)
 3. R. Yue, C. An, Z. Ye. A pH-responsive protein surface washing fluid for oil cleanup. International Oil Spill Science Conference (IOSSC), Halifax, NS, Canada, October 4 – 7, 2022. (Oral Presentation)
