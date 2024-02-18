@@ -26,10 +26,10 @@ I am a research associate in the Department of Building, Civil, and Environmenta
 4. Catalysis
 
 # 📖 Employment & Educations
-- *2020.01-2023.12* Research Associate, Concordia University, Montreal, CA
-- *2020.01-2023.12* Ph.D. in Civil Engineering. Concordia University, Montreal, CA
-- *2016.09-2019.06* Master in Environmental Engineering, Shandong University, Qingdao, CN
-- *2012.09-2016.06* Bachelor in Environmental Science, Jilin Normal University, Siping, CN
+- *2024.01-present*, Research Associate, Concordia University, Montreal, CA
+- *2020.01-2023.12*, Ph.D. in Civil Engineering. Concordia University, Montreal, CA
+- *2016.09-2019.06*, Master in Environmental Engineering, Shandong University, Qingdao, CN
+- *2012.09-2016.06*, Bachelor in Environmental Science, Jilin Normal University, Siping, CN
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 The following paper was recently published: R. Yue, Z. Ye, B. Zhang, C. An, Z. Qu, and S. Wan, [Two Birds with One Stone: A Dual-functional Washing Fluid for Shoreline Oil Spill Response, ACS ES&T Engineering (American Chemical Society), 4(2), 445-454 (2024).](https://doi.org/10.1021/acsestengg.3c00384) 
@@ -52,19 +52,19 @@ I am a research associate in the Department of Building, Civil, and Environmenta
 13. [**R. Yue**, J. Guan, C. Zhang, P. Yuan, L. Liu, MZ. Afzal, S. Wang, X. Sun. Photoinduced superwetting membranes for separation of oil-in-water emulsions. Separation and Purification Technology, 2020, 241: 116536.](https://doi.org/10.1016/j.seppur.2020.116536)
 
 # 🎖 Honors and Awards
-- *2023.06*  Chinese Government Award for Outstanding Self-financed Students Abroad.
-- *2023.05*  Concordia University Conference and Exposition Award.
-- *2022.10*  ITAC Best Student Presentation Award for Oil Spill Response Technologies. IOSSC
-- *2022.08*  Concordia University Conference and Exposition Award.
-- *2022.07*  Concordia University Conference and Exposition Award.
-- *2020.10*  Concordia International Tuition Award of Excellence.
-- *2020.10*  Concordia University Doctoral Graduate Fellowship.
-- *2016-2019* 2 × Third Prize Scholarships, 2 × Outstanding Graduate Student Awards.
-- *2012-1026* 4 × First Prize Scholarships, 2 × Second Prize Scholarships, 3 × Outstanding Student Awards, Jilin Provincial Government Scholarship, Outstanding Graduate Thesis. 
+- *2023.06*,  Chinese Government Award for Outstanding Self-financed Students Abroad.
+- *2023.05*,  Concordia University Conference and Exposition Award.
+- *2022.10*,  ITAC Best Student Presentation Award for Oil Spill Response Technologies. IOSSC
+- *2022.08*,  Concordia University Conference and Exposition Award.
+- *2022.07*,  Concordia University Conference and Exposition Award.
+- *2020.10*,  Concordia International Tuition Award of Excellence.
+- *2020.10*,  Concordia University Doctoral Graduate Fellowship.
+- *2016-2019*, 2 × Third Prize Scholarships, 2 × Outstanding Graduate Student Awards.
+- *2012-1026*, 4 × First Prize Scholarships, 2 × Second Prize Scholarships, 3 × Outstanding Student Awards, Jilin Provincial Government Scholarship, Outstanding Graduate Thesis. 
 
 # 📖 Teaching
-- *2023.04* Graduate Seminar in University Teaching (All Disciplines).
-- *2021.09 - 2019.12* Teaching Assistant, CIVI 6481 Hazardous Waste Management.
+- *2023.04*, Graduate Seminar in University Teaching (All Disciplines).
+- *2021.09 - 2019.12*, Teaching Assistant, CIVI 6481 Hazardous Waste Management.
 
 # 💬 Conference & Events
 1. R. Yue, C. An, Z. Ye. X. Chen, K. Lee. Cleanup of oiled shoreline using a magnetic washing fluid. International Conference on Persistent, Emerging, and Organic Pollution in the Environment – Challenges and Solutions under Climate Change (PEOPLE), Montreal, QC, Canada, August 7 – 11, 2023. (Oral Presentation)
