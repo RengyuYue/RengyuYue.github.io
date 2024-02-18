@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Rengyu Yue"
+title                    : "Rengyu Yue (岳仍宇)"
 description              : "Research Associate "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Rengyu Yue"
+  name             : "Rengyu Yue (岳仍宇)"
   avatar           : "https://pbs.twimg.com/profile_images/1701954273641172992/vL8aiZq2_400x400.jpg"
   bio              : "Concordia University"
   location         : "Montreal, CA"
