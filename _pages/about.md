@@ -26,10 +26,10 @@ I am a research associate in the Department of Building, Civil, and Environmenta
 4. Catalysis
 
 # 📖 Employment and Educations
-- *2024.01-present*, Research Associate, Concordia University, Montreal, CA
-- *2020.01-2023.12*, Ph.D. in Civil Engineering. Concordia University, Montreal, CA
-- *2016.09-2019.06*, Master in Environmental Engineering, Shandong University, Qingdao, CN
-- *2012.09-2016.06*, Bachelor in Environmental Science, Jilin Normal University, Siping, CN
+- *2024.01-present*, Research Associate, Concordia University, Montreal, CAN
+- *2020.01-2023.12*, Ph.D. in Civil Engineering. Concordia University, Montreal, CAN
+- *2016.09-2019.06*, Master in Environmental Engineering, Shandong University, Qingdao, CHN
+- *2012.09-2016.06*, Bachelor in Environmental Science, Jilin Normal University, Siping, CHN
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉 The following paper was recently published: R. Yue, Z. Ye, B. Zhang, C. An, Z. Qu, and S. Wan, [Two Birds with One Stone: A Dual-functional Washing Fluid for Shoreline Oil Spill Response, ACS ES&T Engineering (American Chemical Society), 4(2), 445-454 (2024).](https://doi.org/10.1021/acsestengg.3c00384) 
