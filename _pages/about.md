@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a research associate in the Department of Building, Civil, and Environmental Engineering (BCEE) at [Concordia University](https://www.concordia.ca/) where I obtained my Ph.D. degree under [Dr. Chunjiang An's](https://anlab.ca/) and [Dr. Zhibin Ye's](https://www.concordia.ca/faculty/zhibin-ye.html) supervision. Before joining Concordia, I received my Bachelor's degree from Jilin Normal University in 2016, and my Master’s degree from Shandong University in 2019 co-supervised by Dr. Shuguang Wang and Dr. Xuefei Sun. 
+I am a research associate in the Department of Building, Civil, and Environmental Engineering (BCEE) at [Concordia University](https://www.concordia.ca/) where I obtained my Ph.D. degree under [Dr. Chunjiang An's](https://anlab.ca/) and [Dr. Zhibin Ye's](https://www.concordia.ca/faculty/zhibin-ye.html) supervision. Before joining Concordia, I received my Bachelor's degree from Jilin Normal University in 2016, and my Master’s degree from Shandong University in 2019 co-supervised by [Dr. Shuguang Wang](https://www.huanke.sdu.edu.cn/info/1080/1069.htm) and [Dr. Xuefei Sun](https://geoscience.hfut.edu.cn/info/1063/3932.htm). 
 
 # 📖 Research Interests
 1. Oil spill response
@@ -32,8 +32,8 @@ I am a research associate in the Department of Building, Civil, and Environmenta
 - *2012.09-2016.06*, Bachelor in Environmental Science, Jilin Normal University, Siping, CN
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 The following paper was recently published: R. Yue, Z. Ye, B. Zhang, C. An, Z. Qu, and S. Wan, [Two Birds with One Stone: A Dual-functional Washing Fluid for Shoreline Oil Spill Response, ACS ES&T Engineering (American Chemical Society), 4(2), 445-454 (2024).](https://doi.org/10.1021/acsestengg.3c00384) 
-- *2023.12*: &nbsp;🎉🎉 Rengyu Yue successfully passed his Ph.D. thesis defense.
+- *2024.02*: &nbsp;🎉 The following paper was recently published: R. Yue, Z. Ye, B. Zhang, C. An, Z. Qu, and S. Wan, [Two Birds with One Stone: A Dual-functional Washing Fluid for Shoreline Oil Spill Response, ACS ES&T Engineering (American Chemical Society), 4(2), 445-454 (2024).](https://doi.org/10.1021/acsestengg.3c00384) 
+- *2023.12*: &nbsp;🎉 Rengyu Yue successfully passed his Ph.D. thesis defense.
 
 # 📝 Publications
 
